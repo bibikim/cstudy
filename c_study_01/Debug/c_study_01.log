@@ -1,0 +1,3 @@
+﻿  int.c
+C:\HBstudy\cstudy\c_study_01\int.c(14,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  c_study_01.vcxproj -> C:\HBstudy\cstudy\hello2022\Debug\c_study_01.exe
