@@ -1,0 +1,2 @@
+﻿소스.obj : error LNK2005: _main이(가) helloworld.obj에 이미 정의되어 있습니다.
+C:\HBstudy\cstudy\hello2022\Debug\hello2022.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
