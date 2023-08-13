@@ -1,0 +1,2 @@
+﻿c_study_12_char02.obj : error LNK2005: main이(가) c_study_12_char.obj에 이미 정의되어 있습니다.
+C:\HBstudy\cstudy\c_study_12\x64\Debug\c_study_12.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
