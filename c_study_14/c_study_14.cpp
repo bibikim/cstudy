@@ -32,8 +32,12 @@ int main()
     char str2[LEN_CHAR] = "hello world!";
     char rst2[LEN_CHAR] = "한호열짱";
     strncpy_s(rst2, str2, LEN_CHAR);
-    printf("문자열 복사 : %s", rst2);
+    printf("문자열 복사 : %s\n", rst2);
 
+    char str3[LEN_CHAR + 1] = "kimhanbizzangg";
+    char rst3[LEN_CHAR + 1];
+    strncpy_s(rst3, str3, LEN_CHAR + 1);
+    printf("문자열 복사_테스트 : %s", rst3);
 
     return 0;
 }

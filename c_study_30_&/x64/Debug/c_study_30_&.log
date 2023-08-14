@@ -1,0 +1,6 @@
+﻿  c_study_30_&.cpp
+C:\HBstudy\cstudy\c_study_30_&\c_study_30_&.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\HBstudy\cstudy\c_study_30_&\c_study_30_&.cpp(15,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\HBstudy\cstudy\c_study_30_&\c_study_30_&.cpp(26,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\HBstudy\cstudy\c_study_30_&\c_study_30_&.cpp(26,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+  c_study_30_&.vcxproj -> C:\HBstudy\cstudy\c_study_27_ptr\x64\Debug\c_study_30_&.exe
