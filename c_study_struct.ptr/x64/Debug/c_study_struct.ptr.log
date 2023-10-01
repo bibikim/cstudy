@@ -1,2 +1,13 @@
-﻿  c_study_struct.ptr.cpp
-  c_study_struct.ptr.vcxproj -> C:\HBstudy\cstudy\c_study_15_struct\x64\Debug\c_study_struct.ptr.exe
+﻿  c_study_struct.ptr.c
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(31,33): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [10]'과(와) 다릅니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(31,22): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(31,2): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(33,54): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [28]'과(와) 다릅니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(33,25): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(33,2): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(68,35): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [10]'과(와) 다릅니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(68,24): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(68,2): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(70,54): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [26]'과(와) 다릅니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(70,27): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\HBstudy\cstudy\c_study_struct.ptr\c_study_struct.ptr.c(70,2): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
